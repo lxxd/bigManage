@@ -1,0 +1,18 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 15px;
+    background-color: #F2F2F2;
+}
+
+.layui-card {
+    background-color: #fff;
+}
+
+.layui-card-body {
+    width: 500px
+}
