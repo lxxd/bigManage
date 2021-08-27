@@ -52,3 +52,9 @@ function renderAvatar(user) {
         $(".layui-nav-img").hide();
     }
 }
+
+// 定义一个点击文章列表的方法
+function dj() {
+    $('#cateList').addClass('layui-this');
+    $('#fbCate').removeClass('layui-this');
+}
